@@ -12,8 +12,11 @@ AboutMe {
   location: "United Kingdom",
   interests: [
     "Web Development",
-    "UI/UX",
     "Software development",
+    "Design",
+    "Finance",
+    "Business",
+    "Fitness",
   ],
   discord: "LEON#5758",
   steam: "/id/doublestab",

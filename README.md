@@ -22,11 +22,9 @@ AboutMe {
 <br />
 <br />
 
-<div align="center" width="150px">
 ```
 Technologies i'm learning:
 ```
-</div>
 
 <p align="center">
   <a href="https://panta.uk">

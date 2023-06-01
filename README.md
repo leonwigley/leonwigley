@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=leonwigley" alt="" />
 </p>
 
-<img align="left" src="/images/panta.png" href="www.panta.uk" alt="" height="239" />
+<a href="www.panta.uk"><img align="left" src="/images/panta.png" alt="" height="239" /></a>
 
 ```ts
 AboutMe {

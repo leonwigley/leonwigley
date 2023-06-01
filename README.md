@@ -11,8 +11,6 @@ AboutMe {
   name: "Leon Wigley",
   location: "United Kingdom",
   interests: [
-    "Web Development",
-    "Software development",
     "Design",
     "Finance",
     "Business",

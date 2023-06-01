@@ -13,7 +13,7 @@ AboutMe {
   interests: [
     "Web development",
     "Software development",
-    "Self-development",
+    "Self development",
   ],
   discord: "LEON#5758",
   steam: "/id/doublestab",

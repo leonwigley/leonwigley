@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=leonwigley" alt="" />
 </p>
 
-<img align="left" src="/images/panta.png" alt="" height="239" /> 
+<img align="left" src="/images/panta.png" alt="" height="239" />
 
 ```ts
 AboutMe {
@@ -20,10 +20,13 @@ AboutMe {
 ```
 
 <br />
+<br />
 
+<div align="center" width="150px">
 ```
 Technologies i'm learning:
 ```
+</div>
 
 <p align="center">
   <a href="https://panta.uk">

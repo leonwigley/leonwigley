@@ -11,10 +11,9 @@ AboutMe {
   name: "Leon Wigley",
   location: "United Kingdom",
   interests: [
-    "Design",
-    "Finance",
-    "Business",
-    "Fitness",
+    "Web development",
+    "Software development",
+    "Self-development",
   ],
   discord: "LEON#5758",
   steam: "/id/doublestab",

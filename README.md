@@ -17,6 +17,7 @@ AboutMe {
   ],
   discord: "LEON#5758",
   steam: "/id/doublestab",
+  instagram: "@leonwigley",
 }
 ```
 

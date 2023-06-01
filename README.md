@@ -13,7 +13,7 @@ AboutMe {
   interests: [
     "Web Development",
     "UI/UX",
-    "",
+    "Software development",
   ],
   discord: "LEON#5758",
   steam: "/id/doublestab",
@@ -29,6 +29,6 @@ Technologies i'm learning:
 
 <p align="center">
   <a href="https://panta.uk">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,csharp,mongodb,discord,bots&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,cs,mongodb,discord,bots&coding=cute" />
   </a>
 </p>

@@ -33,4 +33,4 @@ Technologies i'm learning:
 </p>
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonwigley&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonwigley&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)

@@ -26,11 +26,9 @@ AboutMe {
 Technologies i'm learning:
 ```
 
-<p align="center">
-  <a href="https://panta.uk">
+<a href="https://panta.uk">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,cs,mongodb&coding=cute" />
   </a>
-</p>
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonwigley&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

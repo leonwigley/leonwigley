@@ -1,5 +1,3 @@
-<h5 align="left">Leon</h5>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonwigley" alt="" />
 </p>

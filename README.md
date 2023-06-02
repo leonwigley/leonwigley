@@ -33,3 +33,6 @@ Technologies i'm learning:
     <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,cs,mongodb&coding=cute" />
   </a>
 </p>
+
+<br><br>
+```[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonwigley&layout=compact)](https://github.com/leonwigley/github-readme-stats)```

@@ -1,5 +1,5 @@
 <div>
-<h2>Hi, I'm Leon.</h2> <p>As a self-taught programmer, I'm dedicated to expanding my skillset and gaining experience to advance my career in web development. I'm actively seeking my first role as a web developer or software intern.</p> 
+<h2>Hi, I'm Leon.</h2> <p>As a self-taught programmer, I'm dedicated to expanding my skill-set and gaining experience to advance my career in web development. I'm actively seeking my first role as a web developer or software intern.</p> 
 <p>I continuously improve my skills by testing and solving problems, and I'm excited to apply my knowledge to real-world projects. I'm about to ship my first major product, showcasing my ability to deliver results (it will be linked here once live).</p>
 
 <a href="https://www.linkedin.com/in/leonwigley" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

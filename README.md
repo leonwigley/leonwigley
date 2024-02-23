@@ -1,15 +1,6 @@
 <div>
 <h2>Hi, I'm Leon.</h2> <p>As a self-taught programmer, I'm dedicated to expanding my skill-set and gaining experience to advance my career in web development. I'm actively seeking my first role as a web developer or software intern.</p> 
 <p>I continuously improve my skills by testing and solving problems, and I'm excited to apply my knowledge to real-world projects.</p>
-
-<a href="https://www.linkedin.com/in/leonwigley" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.leetcode.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/leetcode-100000?style=for-the-badge&logo=leetcode&logoColor=blue" target="_blank"></a>
-<!--
-<a href="https://www.twitter.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/@leonwigley" target="_blank"><img src="https://img.shields.io/badge/youtube-FD1D1D?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.github.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
--->
 </div>
 
 <div>

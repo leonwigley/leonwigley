@@ -1,6 +1,6 @@
 <div>
-<h2>Hi, I'm Leon.</h2> <p>As a self-taught programmer, I'm dedicated to expanding my skill-set and gaining experience to advance my career in web development. I'm actively seeking my first role as a web developer or software intern.</p> 
-<p>I continuously improve my skills by testing and solving problems, and I'm excited to apply my knowledge to real-world projects.</p>
+<h2>Hi, I'm Leon.</h2> <p>I'm self-taught and dedicated to expanding my skill-set whilst gaining experience to advance my career in web development. I'm actively seeking my first role as a web developer or software intern.</p> 
+<p>I continuously improve my skills by solving problems and launching web apps. I just really like using my ideas to build stuff that the world might need.</p>
 </div>
 
 <div>

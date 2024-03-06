@@ -1,10 +1,14 @@
 <div>
-<h2>Hi, I'm Leon.</h2> <p>I'm self-taught and dedicated to expanding my skill-set whilst gaining experience to advance my career in web development. I'm actively seeking my first role as a web developer or software intern.</p> 
-<p>I continuously improve my skills by solving problems and launching web apps. I just really like using my ideas to build stuff that the world might need.</p>
-</div>
+<h1>Hi, I'm Leon.</h1>
 
+<p>I'm a self-taught web development enthusiast, with a dedication to expanding my skill-set and gaining experience to kickstart my career in this field. I'm actively seeking my first role as a web developer.</p>
+<p>My commitment to continuous learning is demonstrated through solving problems and launching web apps. I find great satisfaction in turning my ideas into tangible apps that the world might find useful.</p>
+
+<p><b>TLDR: I like building useful things for people.</b></p>
+</div>
+<br>
 <div>
-<h3 align="left">What I use to launch apps:</h3>
+<h2 align="left">What I use to launch apps:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="auto" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="auto" height="40"/>

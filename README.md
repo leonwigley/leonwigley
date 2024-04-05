@@ -1,8 +1,8 @@
 <div>
 <h1>Hi, I'm Leon.</h1>
 
-<p>I'm a self-taught developer, with a dedication to expanding my skill-set and gaining experience.</p>
-<p>My commitment to continuous learning is demonstrated through solving problems and launching web apps. I find great satisfaction in turning my ideas into tangible apps that the world might find useful.</p>
+<p>Self-taught developer, expanding my skill-set by gaining experience.</p>
+<p>Solving problems and launching web apps: I find great satisfaction in turning my ideas into tangible apps that the world might find useful.</p>
 
 <p><b>TLDR: I like building useful things for people.</b></p>
 </div>

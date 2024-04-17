@@ -9,7 +9,7 @@
   <a href="https://tiktok.com/@leonwigley/" target="_blank"><img src="https://img.shields.io/badge/TikTok-285bd4?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
   <a href="https://youtube.com/@leonwigley/" target="_blank"><img src="https://img.shields.io/badge/YouTube-285bd4?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
   <br><br>
-  <p>Self-taught developer: I'm expanding my skill-set by creating web applications for ideas that interest me. I learn by solving problems in my code and practice on Leetcode.</p>
+  <p>Self-taught developer: I'm expanding my skill set by developing applications inspired by my personal interests. I learn by solving problems in my code and practice on Leetcode.</p>
   <p>I also like to play chess and travel 😊.</p>
 </div>
 <br>

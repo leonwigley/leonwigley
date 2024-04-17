@@ -1,15 +1,21 @@
 <div>
-<h1>Hi, I'm Leon.</h1>
-
-<p>Self-taught developer, expanding my skill-set by gaining experience.</p>
-<p>Solving problems and launching web apps: I find great satisfaction in turning my ideas into tangible apps that the world might find useful.</p>
-
-<p><b>TLDR: I like building useful things for people.</b></p>
+  <h1>Leon Wigley</h1>
+  <a href="https://github.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/GitHub-285bd4?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/leetcode-285bd4?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
+  <a href="https://chess.com/member/leonwigley" target="_blank"><img src="https://img.shields.io/badge/Chess-285bd4?style=for-the-badge&logo=chessdotcom&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/leonwigley" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-285bd4?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/leonwigley" target="_blank"><img src="https://img.shields.io/badge/X / Twitter-285bd4?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leonwigley/" target="_blank"><img src="https://img.shields.io/badge/Instagram-285bd4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+  <a href="https://tiktok.com/@leonwigley/" target="_blank"><img src="https://img.shields.io/badge/TikTok-285bd4?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/@leonwigley/" target="_blank"><img src="https://img.shields.io/badge/YouTube-285bd4?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
+  <br><br>
+  <p>Self-taught developer: I'm expanding my skill-set by creating web applications for ideas that interest me. I learn by solving problems in my code and practice on Leetcode.</p>
+  <p>I also like to play chess and travel 😊.</p>
 </div>
 <br>
 <div>
-<h2 align="left">What I use to launch apps:</h2>
-<p align="left">
+<h2>Technologies i'm learning:</h2>
+<p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="auto" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="auto" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="auto" height="40"/>
@@ -22,8 +28,3 @@
 </p>
 </div>
 <br>
-<div align="center">
-<a href="https://github.com/leonwigley"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonwigley&theme=transparent" width="600px" /></a>
-<br>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="600px"/>
-</div>

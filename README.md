@@ -8,7 +8,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-202020?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@leonwigley/)
 [![YouTube](https://img.shields.io/badge/YouTube-202020?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@leonwigley/)
 
-Self-taught developer: I'm expanding my skill set by developing applications inspired by my personal interests. I learn by solving problems in my code and practice on Leetcode.
+Learning development by developing (mianly web) applications inspired by my personal interests.
 
 I also like to play chess and travel 😊.
 

@@ -27,7 +27,6 @@ I also like to play chess and travel 😊.
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node" width="auto" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="auto" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" alt="Vercel" width="auto" height="40"/>
 </div>
 
 **Tools**

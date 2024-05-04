@@ -1,12 +1,16 @@
 # Leon Wigley
-[![X / Twitter](https://img.shields.io/badge/X/Twitter-0000b0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leonwigley)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000b0?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/leonwigley)
-[![GitHub](https://img.shields.io/badge/GitHub-0000b0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonwigley)
-[![LeetCode](https://img.shields.io/badge/leetcode-0000b0?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/leonwigley)
-[![Chess](https://img.shields.io/badge/Chess-0000b0?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://chess.com/member/leonwigley)
+
+![X / Twitter](https://img.shields.io/badge/X/Twitter-202020?style=for-the-badge&logo=x&logoColor=white)
+
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/leonwigley)
+[![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonwigley)
+[![LeetCode](https://img.shields.io/badge/leetcode-202020?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/leonwigley)
+[![Chess](https://img.shields.io/badge/Chess-202020?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://chess.com/member/leonwigley)
 [![Instagram](https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leonwigley/)
 [![TikTok](https://img.shields.io/badge/TikTok-202020?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@leonwigley/)
 [![YouTube](https://img.shields.io/badge/YouTube-202020?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@leonwigley/)
+-->
 
 Learning software by building applications (mainly web) inspired by my personal interests.
 

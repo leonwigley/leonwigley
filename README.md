@@ -35,7 +35,6 @@ Building applications inspired by my personal interests.
 **Back-end**
 <div>
 <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX" width="auto" height="40"/>
-<img src="https://seeklogo.com/images/P/pocketbase-logo-CA73994F09-seeklogo.com.png" alt="PocketBase" width="auto" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="auto" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="auto" height="40"/>
 </div>

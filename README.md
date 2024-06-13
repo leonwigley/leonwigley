@@ -11,26 +11,26 @@ Building applications inspired by my personal interests.
 
 ## What I use to build <img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="55" align="right"/>
 
-**Tools**
+### Tools
 <div>
-<img src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif" alt="Linux" width="auto" height="40"/>
-<img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="auto" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="auto" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="auto" height="40"/>
+<a href="https://www.linux.org"><img src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif" alt="Linux" width="auto" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="auto" height="40"/></a>
+<a href="https://neovim.io/"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="auto" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="auto" height="40"/></a>
 </div>
 
-**Front-end**
+### Front-end
 <div>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="auto" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="auto" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="auto" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="auto" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="TailwindCSS" width="auto" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="auto" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="auto" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="auto" height="40"/></a>
+<a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="auto" height="40"/></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="TailwindCSS" width="auto" height="40"/></a>
 </div>
 
-**Back-end**
+### Back-end
 <div>
-<img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX" width="auto" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="auto" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="auto" height="40"/>
+<a href="https://www.nginx.com/"><img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX" width="auto" height="40"/></a>
+<a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="auto" height="40"/></a>
+<a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="auto" height="40"/></a>
 </div>

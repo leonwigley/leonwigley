@@ -1,4 +1,4 @@
-# Leon Wigley <img src="https://media.tenor.com/Qvy-SwFF4jIAAAAi/cross-mw2.gif" width="50"/>
+# Leon Wigley <img src="https://media.tenor.com/Qvy-SwFF4jIAAAAi/cross-mw2.gif" width="55" align="right"/>
 <!--
 <a href="https://x.com/leonwigley"><img src="https://img.shields.io/badge/X/Twitter-202020?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
 <a href="https://github.com/leonwigley"><img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -9,7 +9,7 @@
 -->
 Building applications inspired by my personal interests.
 
-## What I use to build <img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="70"/>
+## What I use to build <img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="55" align="right"/>
 
 **Tools**
 <div>

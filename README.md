@@ -1,12 +1,12 @@
 # Leon Wigley <img src="https://media.tenor.com/Qvy-SwFF4jIAAAAi/cross-mw2.gif" width="50"/>
-
+<!--
 <a href="https://x.com/leonwigley"><img src="https://img.shields.io/badge/X/Twitter-202020?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
 <a href="https://github.com/leonwigley"><img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://chess.com/member/leonwigley"><img src="https://img.shields.io/badge/Chess-202020?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess"></a>
 <a href="https://youtube.com/@leonwigley/"><img src="https://img.shields.io/badge/YouTube-202020?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://linkedin.com/in/leonwigley"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/leonwigley/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-
+-->
 Building applications inspired by my personal interests.
 
 ## What I use to build <img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="70"/>

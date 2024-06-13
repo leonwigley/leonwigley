@@ -9,7 +9,7 @@
 -->
 Building applications inspired by my personal interests.
 
-## What I use to build <img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="55" align="right"/>
+## What I use <img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="55" align="right"/>
 
 ### Tools
 <div>

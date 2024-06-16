@@ -13,7 +13,7 @@ Building applications inspired by my personal interests.
 
 ### Tools
 <div>
-<a href="https://www.linux.org"><img src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif" alt="Linux" width="auto" height="40"/></a>
+<a href="https://www.linux.org"><img src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="auto" height="40"/></a>
 <a href="https://neovim.io/"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="auto" height="40"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="auto" height="40"/></a>

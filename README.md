@@ -1,36 +1,20 @@
-# Leon Wigley <a href="https://github.com/leonwigley/"><img src="https://media.tenor.com/Qvy-SwFF4jIAAAAi/cross-mw2.gif" width="55" align="right"/></a>
-<!--
-<a href="https://x.com/leonwigley"><img src="https://img.shields.io/badge/X/Twitter-202020?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
-<a href="https://github.com/leonwigley"><img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://chess.com/member/leonwigley"><img src="https://img.shields.io/badge/Chess-202020?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess"></a>
-<a href="https://youtube.com/@leonwigley/"><img src="https://img.shields.io/badge/YouTube-202020?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://linkedin.com/in/leonwigley"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/leonwigley/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
--->
+# Leon Wigley
 Building applications inspired by my personal interests.
 
-## What I use <a href="https://github.com/leonwigley/"><img src="https://media.tenor.com/gqbptD8eQwoAAAAi/bee-minecraft.gif" width="55" align="right"/></a>
+<hr>
 
-### Tools
-<div>
-<a href="https://www.linux.org"><img src="https://media.tenor.com/oz87QI5ZSScAAAAi/pinguin.gif" alt="Linux" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="auto" height="40"/></a>
-<a href="https://neovim.io/"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="auto" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="auto" height="40"/></a>
-</div>
+[![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=151515&logoColor=4183c4&style=flat-square)](https://www.linux.org/)
+[![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=151515&logoColor=4183c4&style=flat-square)](https://www.gnu.org/software/bash/)
+[![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=151515&logoColor=e34c26&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=151515&logoColor=563d7c&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JS](https://img.shields.io/static/v1?logo=javascript&label=&message=JS&color=151515&logoColor=f0db4f&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=151515&logoColor=68a063&style=flat-square)](https://nodejs.org/)
+[![Svelte](https://img.shields.io/static/v1?logo=svelte&label=&message=Svelte&color=151515&logoColor=ff3e00&style=flat-square)](https://svelte.dev/)
+[![Tailwind](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=Tailwind&color=151515&logoColor=38b2ac&style=flat-square)](https://tailwindcss.com/)
+[![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=151515&logoColor=009639&style=flat-square)](https://nginx.org/)
+[![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=151515&logoColor=003b57&style=flat-square)](https://www.sqlite.org/)
+[![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57a143&style=flat-square)](https://neovim.io/)
+[![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=151515&logoColor=f34f29&style=flat-square)](https://git-scm.com/)
 
-### Front-end
-<div>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="auto" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="auto" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="auto" height="40"/></a>
-<a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="auto" height="40"/></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="TailwindCSS" width="auto" height="40"/></a>
-</div>
 
-### Back-end
-<div>
-<a href="https://www.nginx.com/"><img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX" width="auto" height="40"/></a>
-<a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="auto" height="40"/></a>
-<a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="auto" height="40"/></a>
-</div>
+[<img src="https://simpleicons.now.sh/x/fff" alt="X" width="20px" />](https://leonwigley.com) | [leonwigley.com/blog](https://leonwigley.com/blog)

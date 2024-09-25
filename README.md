@@ -16,6 +16,3 @@ Building applications inspired by my personal interests.
 [![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=151515&logoColor=003b57&style=flat-square)](https://www.sqlite.org/)
 [![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57a143&style=flat-square)](https://neovim.io/)
 [![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=151515&logoColor=f34f29&style=flat-square)](https://git-scm.com/)
-
-
-[<img src="https://simpleicons.now.sh/x/fff" alt="X" width="20px" />](https://leonwigley.com) | [leonwigley.com/blog](https://leonwigley.com/blog)

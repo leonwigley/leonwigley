@@ -9,6 +9,7 @@ Building applications inspired by my personal interests.
 [![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=151515&logoColor=563d7c&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JS](https://img.shields.io/static/v1?logo=javascript&label=&message=JS&color=151515&logoColor=f0db4f&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=151515&logoColor=68a063&style=flat-square)](https://nodejs.org/)
+[![Go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=151515&logoColor=00ADD8&style=flat-square)](https://golang.org/)
 [![Svelte](https://img.shields.io/static/v1?logo=svelte&label=&message=Svelte&color=151515&logoColor=ff3e00&style=flat-square)](https://svelte.dev/)
 [![Tailwind](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=Tailwind&color=151515&logoColor=38b2ac&style=flat-square)](https://tailwindcss.com/)
 [![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=151515&logoColor=009639&style=flat-square)](https://nginx.org/)

@@ -14,5 +14,4 @@ Building applications inspired by my personal interests.
 [![Tailwind](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=Tailwind&color=151515&logoColor=38b2ac&style=flat-square)](https://tailwindcss.com/)
 [![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=151515&logoColor=009639&style=flat-square)](https://nginx.org/)
 [![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=151515&logoColor=003b57&style=flat-square)](https://www.sqlite.org/)
-[![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57a143&style=flat-square)](https://neovim.io/)
 [![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=151515&logoColor=f34f29&style=flat-square)](https://git-scm.com/)

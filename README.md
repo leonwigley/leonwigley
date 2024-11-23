@@ -2,6 +2,9 @@
 Building applications inspired by my personal interests.
 <hr>
 
+### Stack
+
+[![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57A143&style=flat-square)](https://neovim.io/)
 [![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=151515&logoColor=e34c26&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=151515&logoColor=563d7c&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TS](https://img.shields.io/static/v1?logo=typescript&label=&message=TS&color=151515&logoColor=007ACC&style=flat-square)](https://www.typescriptlang.org/)
@@ -13,3 +16,5 @@ Building applications inspired by my personal interests.
 [![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=151515&logoColor=4183c4&style=flat-square)](https://www.gnu.org/software/bash/)
 [![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=151515&logoColor=003b57&style=flat-square)](https://www.sqlite.org/)
 [![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=151515&logoColor=009639&style=flat-square)](https://nginx.org/)
+[![VPS (Hetzner)](https://img.shields.io/static/v1?logo=hetzner&label=&message=VPS%20(Hetzner)&color=151515&logoColor=D50C2D&style=flat-square)](https://www.hetzner.com/)
+[![Tmux](https://img.shields.io/static/v1?logo=tmux&label=&message=Tmux&color=151515&logoColor=1BB91F&style=flat-square)](https://github.com/tmux/tmux/wiki)

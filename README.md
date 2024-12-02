@@ -14,6 +14,7 @@ Building applications inspired by my personal interests.
 [![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=151515&logoColor=f34f29&style=flat-square)](https://git-scm.com/)
 [![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=151515&logoColor=4183c4&style=flat-square)](https://www.linux.org/)
 [![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=151515&logoColor=4183c4&style=flat-square)](https://www.gnu.org/software/bash/)
+[![JSON](https://img.shields.io/static/v1?logo=json&label=&message=JSON&color=151515&logoColor=02569B&style=flat-square)](https://www.json.org/)
 [![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=151515&logoColor=003b57&style=flat-square)](https://www.sqlite.org/)
 [![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=151515&logoColor=009639&style=flat-square)](https://nginx.org/)
 [![VPS (Hetzner)](https://img.shields.io/static/v1?logo=hetzner&label=&message=VPS%20(Hetzner)&color=151515&logoColor=D50C2D&style=flat-square)](https://www.hetzner.com/)

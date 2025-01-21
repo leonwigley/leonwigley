@@ -1,10 +1,9 @@
 [![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57A143&style=flat-square)](https://neovim.io/)
 [![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=151515&logoColor=e34c26&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=151515&logoColor=563d7c&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TS](https://img.shields.io/static/v1?logo=typescript&label=&message=TS&color=151515&logoColor=007ACC&style=flat-square)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=151515&logoColor=F7DF1E&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=151515&logoColor=61DAFB&style=flat-square)](https://react.dev/)
-[![Vue](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue&color=151515&logoColor=4FC08D&style=flat-square)](https://vuejs.org/)
-[![Deno](https://img.shields.io/static/v1?logo=deno&label=&message=Deno&color=151515&logoColor=ffffff&style=flat-square)](https://deno.com/)
+[![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=151515&logoColor=339933&style=flat-square)](https://nodejs.org/)
 [![Vite](https://img.shields.io/static/v1?logo=vite&label=&message=Vite&color=151515&logoColor=FFD62E&style=flat-square)](https://vitejs.dev/)
 [![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=151515&logoColor=f34f29&style=flat-square)](https://git-scm.com/)
 [![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=151515&logoColor=4183c4&style=flat-square)](https://www.linux.org/)
@@ -14,4 +13,3 @@
 [![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=151515&logoColor=009639&style=flat-square)](https://nginx.org/)
 [![VPS (Hetzner)](https://img.shields.io/static/v1?logo=hetzner&label=&message=VPS%20(Hetzner)&color=151515&logoColor=D50C2D&style=flat-square)](https://www.hetzner.com/)
 [![Tmux](https://img.shields.io/static/v1?logo=tmux&label=&message=Tmux&color=151515&logoColor=1BB91F&style=flat-square)](https://github.com/tmux/tmux/wiki)
-

@@ -1,7 +1,7 @@
 [![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57A143&style=flat-square)](https://neovim.io/)
 [![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=151515&logoColor=e34c26&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=151515&logoColor=563d7c&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=151515&logoColor=F7DF1E&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=151515&logoColor=3178C6&style=flat-square)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=151515&logoColor=61DAFB&style=flat-square)](https://react.dev/)
 [![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=151515&logoColor=339933&style=flat-square)](https://nodejs.org/)
 [![Vite](https://img.shields.io/static/v1?logo=vite&label=&message=Vite&color=151515&logoColor=FFD62E&style=flat-square)](https://vitejs.dev/)

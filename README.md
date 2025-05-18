@@ -1,5 +1,3 @@
-![Codewars](https://www.codewars.com/users/leonwigley/badges/small)
-
 ## Tools I use
 [![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=151515&logoColor=4183c4&style=flat-square)](https://www.linux.org/)
 [![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=Neovim&color=151515&logoColor=57A143&style=flat-square)](https://neovim.io/)

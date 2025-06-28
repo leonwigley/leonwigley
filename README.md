@@ -1,1 +1,1 @@
-To understanding
+I like learning graphics and memory. Mainly do web stuff.
